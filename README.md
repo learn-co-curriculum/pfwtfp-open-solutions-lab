@@ -1,15 +1,15 @@
-# Title
+# Open Solutions Lab
 
 ## Objectives
 
--SWBAT 1
--SWBAT 2
+- Construct functions based on a desire output
 
-#### Introduction
+## Introduction
 
-#### SWBAT 1
+- A set of challenges that focus on output rather than intermediate steps to encourage students to apply the programming mindset rather than rely strictly on the passing the next test
+- Challenges start with small 3-4 step methods and gradually become larger and more complex
 
-#### SWBAT 2
+### Construct functions based on a desire output
 
 ## Conclusion
 
